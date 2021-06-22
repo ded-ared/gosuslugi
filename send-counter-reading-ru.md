@@ -11,7 +11,7 @@
 1. Зайдите в личный кабинет с помощью подтвержденной учетной записи на Госуслугах.
 ![sign-in](https://github.com/ded-ared/gosuslugi/blob/main/images/001-sign-in.png "sign-in")
 2. В разделе **Действия** перейдите по ссылке **Передать показания приборов учета**.
-![send-reading]( "send-reading")
+![send-reading](https://github.com/ded-ared/gosuslugi/blob/main/images/002-actions.png "send-reading")
 3. Введите данные в поля **Текущее показание** и **Дата снятия**.
 4. Нажмите **Сохранить**.
 
