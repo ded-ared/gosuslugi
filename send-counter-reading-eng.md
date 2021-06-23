@@ -20,6 +20,6 @@ In order to submit water meter readings via [GIS ZhKH](https://dom.gosuslugi.ru/
 
 4. Click **Save**.
 
-	![fill and save data](https://github.com/ded-ared/gosuslugi/blob/main/images/3-fill-and-save-data.png "fill-and-save-data").
+	![fill and save data](https://github.com/ded-ared/gosuslugi/blob/main/images/03-fill-and-save-data.png "fill-and-save-data").
 
 The water meter readings are submitted.
