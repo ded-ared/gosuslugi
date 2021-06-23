@@ -1,6 +1,6 @@
 # Submission of water meter readings via GOSUSLUGI (State Services website)
 
-This document informs you how to submit water meter readings to your facility management department via [GOSUSLUGI](https://www.gosuslugi.ru/).
+This document is a quick quide on how to submit water meter readings to your facility management department via [GOSUSLUGI](https://www.gosuslugi.ru/).
 
 |⚠ NOTE! The services relating the housing and public utilities are moved to the affiliated website of GOSUSLUGI — [GIS ZhKH](https://dom.gosuslugi.ru/).|
 |:---|
