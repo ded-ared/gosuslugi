@@ -18,6 +18,6 @@
 
 3. Во всплывающем окне введите данные в поля **Текущее показание** и **Дата снятия**.
 
-	![insert data](https://github.com/ded-ared/gosuslugi/blob/main/images/3-input-data.png "insert-data").
-
 4. Нажмите **Сохранить**.
+
+	![fill and save data](https://github.com/ded-ared/gosuslugi/blob/main/images/3-fill-and-save-data.png "fill-and-save-data").
