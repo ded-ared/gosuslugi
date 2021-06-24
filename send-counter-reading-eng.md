@@ -22,4 +22,8 @@ In order to submit water meter readings via [GIS ZhKH](https://dom.gosuslugi.ru/
 
 	![fill and save data](https://github.com/ded-ared/gosuslugi/blob/main/images/03-fill-and-save-data.png "fill-and-save-data").
 
-	The water meter readings are submitted.
+	The confirmation window pops up saying the water meter readings are successfully submitted.
+
+---
+A little note.
+Unfortunately I can't describe situations when something goes wrong because I worked with my personal account and I wouldn't like to play around with it.
