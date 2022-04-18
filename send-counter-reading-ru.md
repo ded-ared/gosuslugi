@@ -21,11 +21,9 @@
 
 	![fill and save data](https://github.com/ded-ared/gosuslugi/blob/main/images/показания-дата.png "fill-and-save-data").
 
-4. Нажмите **Сохранить**.
+4. Нажмите кнопку **Сохранить**.
 
-	![fill and save data](https://github.com/ded-ared/gosuslugi/blob/main/images/03-fill-and-save-data.png "fill-and-save-data").
-
-	Появится всплывающее окно с сообщением, что показания успешно переданы.
+Появится всплывающее окно с сообщением, что показания успешно переданы.
 	
 -----
 
